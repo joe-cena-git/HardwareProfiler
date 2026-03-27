@@ -1,0 +1,3 @@
+# Never commit generated report files
+HardwareProfile_*.txt
+*.txt
