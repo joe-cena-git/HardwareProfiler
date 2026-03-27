@@ -1,6 +1,6 @@
 # HardwareProfiler
 
-SEE NEW CROSS-PLATFORM VERSION: [https://github.com/joe-cena-git/RustHardwareProfiler]
+SEE NEW CROSS-PLATFORM VERSION IN RUST: https://github.com/joe-cena-git/RustHardwareProfiler
 
 A single-file PowerShell script that generates a comprehensive hardware profile of any Windows machine. Designed for both interactive and unattended (SSH, scheduled task) use — no prompts, no dependencies, just run and get a detailed report.
 
